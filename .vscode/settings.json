@@ -3,5 +3,9 @@
     "explorer.openEditors.visible": 0,
     "window.zoomLevel": 0.5,
     "editor.tabSize": 2,
-    "eslint.autoFixOnSave": true
+    "javascript.validate.enable": false,
+    "files.autoSave": "off",
+    "standard.enable": true,
+    "standard.autoFixOnSave": true,
+    "gitlens.blame.annotation.activeLine": "inline"
 }
